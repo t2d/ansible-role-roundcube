@@ -3,5 +3,6 @@
   "author": "systemli.org",
   "license": "Creative Commons Attribution-ShareAlike",
   "license-url": "http://creativecommons.org/licenses/by-sa/3.0/",
-  "extends": "elastic"
+  "extends": "elastic",
+  "localization": true
 }
